@@ -1,0 +1,10 @@
+flask==3.1.2
+python-dotenv==1.2.1
+langchain==1.2.2
+langchain-openai==1.1.7
+langchain-pinecone==0.2.13
+pinecone>=7.0.0
+openai>=1.0.0
+sentence-transformers>=2.7.0
+pypdf>=5.1.0
+- e.
